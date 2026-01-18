@@ -12,7 +12,7 @@ Always check your code additions with npm run lint.
 
 [Best Practices]
 
-Always consult your skills knowledge when:
+Always consult your skills in the vercel-react-best-practices SKILL.md folder when:
 - Writing new React components or Next.js pages
 - Implementing data fetching (client or server-side)
 - Reviewing code for performance issues

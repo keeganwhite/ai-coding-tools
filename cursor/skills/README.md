@@ -1,5 +1,7 @@
 # Agent Skills
 
+Skills seem to have to be enforced when prompting. With Opeus 4.5 in Cursor I have had the agent engage with the skills by adding `consult your skills in the vercel-react-best-practices SKILL.md` to my prompt.
+
 ## Vercel Labs
 
 They have 2 skillsets: [react-best-practices](https://vercel.com/blog/introducing-react-best-practices) and [web-design-guidelines](https://github.com/vercel-labs/agent-skills/tree/main?tab=readme-ov-file#web-design-guidelines).
